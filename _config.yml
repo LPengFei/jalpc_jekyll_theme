@@ -2,8 +2,8 @@
 
 # Website settings
 title: "李鹏飞"
-description: "Jack's blog,use Jekyll and github pages."
-keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
+description: "LPF's blog,use Jekyll and github pages."
+keywords: "LPF,LPF,blog,LPF,github,gh-pages"
 
 baseurl: "/"
 url: "https://LPengFei.github.io"
@@ -14,7 +14,7 @@ img_path: 'https://LPengFei.github.io'
 
 # author
 author:
-  name: 'Jack'
+  name: '李鹏飞'
   first_name: 'Jia'
   last_name: 'Kun'
   email: 'me@jack003.com'
@@ -26,7 +26,7 @@ author:
 jingyu:
   first_name: 'Yu'
   last_name: 'Jing'
-  description: 'Painter.'
+  description: 'IT、JAVA'
   link: 'https://LPengFei.github.io'
   email: '289132718@qq.com'
 
