@@ -2,10 +2,13 @@
 
 # Website settings
 title: "李鹏飞"
+#介绍
 description: "LPF's blog,use Jekyll and github pages."
-keywords: "LPF,LPF,blog,LPF,github,gh-pages"
+#关键字
+keywords: "LPF,blog,github,gh-pages"
 
 baseurl: "/"
+#项目地址
 url: "https://LPengFei.github.io"
 # url: "http://127.0.0.1:4000"
 
@@ -15,18 +18,18 @@ img_path: 'https://LPengFei.github.io'
 # author
 author:
   name: '李鹏飞'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
-  head_img: 'static/img/landing/Jack.jpg'
+  first_name: '李'
+  last_name: '鹏飞'
+  email: '289132718@qq.com'
+  github_username: 'LPengFei'
+  head_img: 'static/img/landing/lpf.jpg'
 
 # social link
 jingyu:
-  first_name: 'Yu'
-  last_name: 'Jing'
-  description: 'IT、JAVA'
+
+  first_name: '李'
+  last_name: '鹏飞'
+  description: 'IT、JAVA、C#、MySQL、Oracle'
   link: 'https://LPengFei.github.io'
   email: '289132718@qq.com'
 
@@ -41,23 +44,6 @@ landing:
   link: 'Link'
 
 # my projects
-project:
-  saplatform:
-    name: 'Saplatform'
-    url: '/Jack614/saplatform'
-    img: 'static/img/landing/saplatform.png'
-  jalpc:
-    name: '李鹏飞'
-    url: '/Jack614/jalpc_jekyll_theme'
-    img: 'static/img/landing/jekyll.png'
-  angularjs:
-    name: '李鹏飞-A'
-    url: '/Jack614/李鹏飞-A'
-    img: 'static/img/landing/angularjs.png'
-  Rsser:
-    name: 'Rsser'
-    url: '/Jack614/Rsser'
-    img: 'static/img/landing/rsser.png'
 
 # blog index
 index:
